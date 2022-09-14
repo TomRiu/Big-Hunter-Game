@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Button
+  - ClearClone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Blackground
+    uniqueID: 576601067
+    locked: 0
+  - name: Hole
+    uniqueID: 4144066057
+    locked: 0
+  - name: Background
+    uniqueID: 3032446467
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ViewFinder
+    uniqueID: 3988744295
+    locked: 0
+  - name: UI
+    uniqueID: 3592643295
+    locked: 0
